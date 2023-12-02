@@ -78,7 +78,7 @@ namespace CSS
 				{
 					//Console.WriteLine("damage boost");               
 					Mouse.Click(MouseButton.Right);
-					Thread.Sleep(500);
+					Thread.Sleep(700);
 					hasExecuted = false;
 
 				}
