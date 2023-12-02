@@ -88,6 +88,7 @@ namespace CSS
 				{
 					//Console.WriteLine("heal");               
 					Mouse.Click(MouseButton.Left);
+					Thread.Sleep(500)
 					hasExecuted = true;
 				}
 			}
